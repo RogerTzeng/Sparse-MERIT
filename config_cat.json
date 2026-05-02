@@ -1,0 +1,4 @@
+{
+    "wav_dir": "path/to/your/MSP-PODCAST/NoisyAudios",
+    "label_path": "path/to/your/MSP-PODCAST/Labels/labels_consensus.csv"
+}
