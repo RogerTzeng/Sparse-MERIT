@@ -2,10 +2,8 @@
 
 Official repository for the TASLP submission:
 
-**“Joint Learning using Mixture-of-Expert-Based Representation for Speech Enhancement and Robust Emotion Recognition”**  
-(aka **Sparse MERIT**)  
-[Read the paper on arXiv](https://arxiv.org/abs/2509.08470)
-
+**[“Joint Learning using Mixture-of-Expert-Based Representation for Speech Enhancement and Robust Emotion Recognition”](https://arxiv.org/abs/2509.08470)**  
+(aka **Sparse MERIT**)
 ---
 
 ## Overview
@@ -23,7 +21,7 @@ Key ideas:
 
 ## Model Architecture
 
-![Sparse MERIT Framework](/homes/jingtong/EMO/MSP-Podcast/Sparse-MERIT/Framework.png)
+![Sparse MERIT Framework](Framework.png)
 
 Sparse MERIT applies a frame-wise MoE layer over multi-layer self-supervised speech representations:
 1. **Layer-Wise Representation Construction**: Hidden representations are extracted from the pretrained WavLM model.
